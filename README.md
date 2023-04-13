@@ -1,6 +1,8 @@
 # compiladoresTarea1
 Analizador Léxico Tarea1
-Autor: María José Rejala
+Autores: 
+María José Rejala
+Arturo González 
 
 Para ejecutar el analizador lexico
 python lexerAn.py
