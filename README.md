@@ -1,9 +1,11 @@
-# compiladoresTarea1
-Analizador Léxico Tarea1
+# Trabajos de compiladores
 Autores: 
 María José Rejala
 Arturo González 
 
-Para ejecutar el analizador lexico
-python lexerAn.py
-El archivo entrada.json debe existir en el directorio del codigo fuente.
+Requerimientos
+* Node.js >= 16.20.0
+
+Para ejecutar las tareas
+* Instalar dependencias con: npm i
+* Ejecutar con el comando: npm run start ruta_archivo
